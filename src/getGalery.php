@@ -41,12 +41,6 @@ function getGalery(): array
         ],
         [
             "filter" => "filter-product",
-            "img" => "assets/img/galery/territory/IMG_5638.JPG",
-            "short_info" => "Бассейн",
-            "title" => "Наши гости всегда могут воспользоваться бассейном с прохладной водой."
-        ],
-        [
-            "filter" => "filter-product",
             "img" => "assets/img/galery/territory/IMG_5631.JPG",
             "short_info" => "Общий вид территории",
             "title" => "Общий вид территории гостевого дома. Для наших гостей доступна парковка."
@@ -56,6 +50,12 @@ function getGalery(): array
             "img" => "assets/img/galery/territory/IMG_5625.JPG",
             "short_info" => "Беседки и качели",
             "title" => "На территории гостевого дома есть просторные беседки и качели."
+        ],
+        [
+            "filter" => "filter-product",
+            "img" => "assets/img/galery/territory/IMG_5638.JPG",
+            "short_info" => "Бассейн",
+            "title" => "Наши гости всегда могут воспользоваться бассейном с прохладной водой."
         ],
         [
             "filter" => "filter-product",
